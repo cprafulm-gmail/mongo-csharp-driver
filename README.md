@@ -164,3 +164,4 @@ Please see our [guidelines](CONTRIBUTING.md) for contributing to the driver.
 * Aristarkh Zagorodnikov    https://github.com/onyxmaster
 
 If you have contributed and we have neglected to add you to this list please contact one of the maintainers to be added to the list (with apologies).
+Praful Chauhan
